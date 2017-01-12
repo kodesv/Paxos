@@ -52,6 +52,8 @@ public class Channel {
     }
   }
 
+
+
   /** Call this function to get the initial value for a proposer. */
 
   public int getInitialValue() {
